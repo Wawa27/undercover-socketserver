@@ -1,0 +1,19 @@
+{
+  "name": "undercover-socket-server",
+  "version": "1.0.0",
+  "author": "Wawa#2003",
+  "private": true,
+  "scripts": {
+    "start": "node -r dotenv/config ./index.js"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "nodemon": "^1.18.9",
+    "prettier": "^1.19.1"
+  }
+}

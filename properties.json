@@ -1,0 +1,15 @@
+{
+  "gameSettings": {
+    "undercoverCount": 1,
+    "misterWhite": false,
+    "wordPerRoundCount": 2,
+    "roundPerGameCount": 2,
+    "minimumPlayerCount": 3,
+    "score": {
+      "undercoverNotFound": 100,
+      "misterWhiteFoundWord": 100,
+      "playerFoundUndercover": 75,
+      "playerFoundMisterWhite": 75
+    }
+  }
+}
